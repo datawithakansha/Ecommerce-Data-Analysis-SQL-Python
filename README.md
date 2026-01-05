@@ -1,4 +1,5 @@
 # E-Commerce Business Analysis using SQL & Python
+🎥 [View Full SQL Presentation on Google Drive] https://drive.google.com/file/d/1401GGy2l0oCVuRgXlNjRRkprlTmWferM/view?usp=sharing
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end data analysis workflow on e-commerce data.
@@ -44,3 +45,25 @@ to extract meaningful business insights.
 ---
 
 ## 📂 Project Structure
+Ecommerce-Data-Analysis-SQL-Python/
+│
+├── data/
+│ └── *.csv
+│
+├── sql_queries/
+│ └── analysis_queries.sql
+│
+├── notebooks/
+│ └── ecommerce_analysis.ipynb
+│
+├── scripts/
+│ └── db_connection.py
+│
+├── visuals/
+│ └── charts.png
+│
+└── README.md
+
+🚀 Conclusion
+This project highlights practical usage of SQL and Python together to solve
+real-world business problems and generate actionable insights from data.
